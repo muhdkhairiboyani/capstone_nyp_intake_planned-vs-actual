@@ -49,19 +49,19 @@ I identified the following possible questions for this capstone:
 #### Phase 01: Entity Relationship Diagram - ERD
 An entity relationship diagram gives a snapshot of how these entities relate to each other. You could call it the blueprint that underpins your business architecture, offering a visual representation of the relationships between different sets of data (entities).
 
-The ERD screencapture below shows intended changes to be made using PostgreSQL.
+The ERD screencapture below shows intended changes to be made.
 
 ![ERD](ERD.jpg)
 
 #### Phase 02: PostgreSQL
 Both CSV files were dumped as SQL files using SQLite3.
 
-Process of normalisation and alteration are done using sql syntax as shown below.
+Process of normalisation and alteration are done using sql.
 
 ![ERD_dataset](IMG_dataset_erd.jpg)
 
 #### Phase 03: Dashboard
-
+The layout of the dashboard shows how the five possible questions are answered.
 ![Explanation_of_dashboard](IMG_dashboard_present.jpg)
 
 ---
