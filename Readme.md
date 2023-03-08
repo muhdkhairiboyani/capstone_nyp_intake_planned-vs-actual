@@ -1,12 +1,12 @@
-##### Capstone: PostgreSQL
+##### Capstone: PostgreSQL & Excel Dashboard
 ---
 ---
 # NYP Student Intake: **PLANNED & INTAKE**
 
 ---
 ---
-#### Dashboard_01
-![Dashboard_01](NYP_intake_dashboard.png)
+#### Dashboard
+![Dashboard](NYP_intake_dashboard.png)
 
 #### Dataset source:
 **Source 01**
