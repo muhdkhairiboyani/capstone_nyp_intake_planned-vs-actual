@@ -6,7 +6,7 @@
 ---
 ---
 #### Dashboard_01
-![Capstone_Screenshot_3000](NYP_intake_dashboard.png)
+![Dashboard_01](NYP_intake_dashboard.png)
 
 #### Dataset source:
 **Source 01**
@@ -49,17 +49,17 @@ An entity relationship diagram gives a snapshot of how these entities relate to 
 
 The ERD screencapture below shows intended changes to be made using PostgreSQL.
 
-SCREENSHOT OF ERD
+![ERD](ERD.jpg)
 
 #### Phase 02: PostgreSQL
 Both CSV files were dumped as SQL files using SQLite3.
 
 Process of normalisation and alteration are done using sql syntax as shown below.
 
-SCREENSHOT OF ERD
+![ERD](NYP_for presentation-_Dataset_ERD_10.jpg)
 
 #### Phase 03: Dashboard
-SCREENSHOT OF Dashboard
+![Explanation_of_dashboardf](NYP_intake_dashboard.png)
 
 ---
 
