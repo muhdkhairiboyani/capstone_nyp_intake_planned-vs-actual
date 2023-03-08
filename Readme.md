@@ -21,14 +21,14 @@ Rows: 909 \
 Link: https://data.gov.sg/dataset/nanyang-polytechnic-student-intake-annual
 
 **Source 02**
-Title: Nanyang Polytechnic Planned Intake, Annual
-About this dataset: This dataset contains information on Nanyang Polytechnic planned intake by year.
-Coverage: January 1, 2016 to December 31, 2022
-Last updated: January 12, 2022
-Licence: Singapore Open Data Licence
-Format: CSV
-Column: 6
-Rows: 313
+Title: Nanyang Polytechnic Planned Intake, Annual \
+About this dataset: This dataset contains information on Nanyang Polytechnic planned intake by year. \
+Coverage: January 1, 2016 to December 31, 2022 \
+Last updated: January 12, 2022 \
+Licence: Singapore Open Data Licence \
+Format: CSV \
+Column: 6 \
+Rows: 313 \
 Link: https://data.gov.sg/dataset/nanyang-polytechnic-planned-intake-annual
 
 #### Description of Capstone
