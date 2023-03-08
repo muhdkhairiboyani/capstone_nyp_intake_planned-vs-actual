@@ -6,7 +6,7 @@
 ---
 ---
 #### Dashboard
-Link to [Presentation] (https://github.com/muhdkhairiboyani/capstone_nyp_intake_planned-vs-actual/blob/main/NYP_for%20presentation.pdf)
+Link to [Presentation](https://github.com/muhdkhairiboyani/capstone_nyp_intake_planned-vs-actual/blob/main/NYP_for%20presentation.pdf) \
 Link to [Dashboard](https://github.com/muhdkhairiboyani/capstone_nyp_intake_planned-vs-actual/blob/main/NYP_intake_dashboard.xlsx)
 ![Dashboard](NYP_intake_dashboard.png)
 
