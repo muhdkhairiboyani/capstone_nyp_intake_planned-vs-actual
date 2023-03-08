@@ -10,14 +10,14 @@
 
 #### Dataset source:
 **Source 01**
-Title: Nanyang Polytechnic Student Intake, Annual
-About this dataset: This dataset contains information on the student intake for Nanyang Polytechnic by semester.
-Coverage: January 1, 2013 to December 31, 2022
-Last updated: December 27, 2022, 15:32 (SGT)
-Licence: Singapore Open Data Licence
-Format: CSV
-Column: 7
-Rows: 909
+Title: Nanyang Polytechnic Student Intake, Annual \
+About this dataset: This dataset contains information on the student intake for Nanyang Polytechnic by semester. \
+Coverage: January 1, 2013 to December 31, 2022 \
+Last updated: December 27, 2022, 15:32 (SGT) \
+Licence: Singapore Open Data Licence \
+Format: CSV \
+Column: 7 \
+Rows: 909 \
 Link: https://data.gov.sg/dataset/nanyang-polytechnic-student-intake-annual
 
 **Source 02**
