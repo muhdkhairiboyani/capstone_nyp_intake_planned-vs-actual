@@ -9,7 +9,7 @@
 ![Dashboard](NYP_intake_dashboard.png)
 
 #### Dataset source:
-**Source 01**
+**Source 01** \
 Title: Nanyang Polytechnic Student Intake, Annual \
 About this dataset: This dataset contains information on the student intake for Nanyang Polytechnic by semester. \
 Coverage: January 1, 2013 to December 31, 2022 \
@@ -20,7 +20,7 @@ Column: 7 \
 Rows: 909 \
 Link: https://data.gov.sg/dataset/nanyang-polytechnic-student-intake-annual
 
-**Source 02**
+**Source 02** \
 Title: Nanyang Polytechnic Planned Intake, Annual \
 About this dataset: This dataset contains information on Nanyang Polytechnic planned intake by year. \
 Coverage: January 1, 2016 to December 31, 2022 \
