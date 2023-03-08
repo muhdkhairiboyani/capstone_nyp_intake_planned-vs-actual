@@ -6,10 +6,7 @@
 ---
 ---
 #### Dashboard_01
-![Capstone_Screenshot_3000](https://cdn.pixabay.com/photo/2023/01/31/13/01/13-01-31-81_1280.jpg)
-
-#### Dashboard_02
-![Capstone_Screenshot_3000](https://cdn.pixabay.com/photo/2023/01/31/13/01/13-01-31-81_1280.jpg)
+![Capstone_Screenshot_3000](NYP_intake_dashboard.png)
 
 #### Dataset source:
 **Source 01**
