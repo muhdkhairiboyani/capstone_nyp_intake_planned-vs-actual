@@ -59,7 +59,7 @@ Process of normalisation and alteration are done using sql syntax as shown below
 ![ERD](NYP_for presentation-_Dataset_ERD_10.jpg)
 
 #### Phase 03: Dashboard
-![Explanation_of_dashboardf](NYP_intake_dashboard.png)
+![Explanation_of_dashboardf](NYP_for presentation-Excel Dashboard 15.jpg)
 
 ---
 
