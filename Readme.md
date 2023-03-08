@@ -56,10 +56,11 @@ Both CSV files were dumped as SQL files using SQLite3.
 
 Process of normalisation and alteration are done using sql syntax as shown below.
 
-![ERD](NYP_for presentation-_Dataset_ERD_10.jpg)
+![ERD_dataset](IMG_dataset_erd.jpg)
 
 #### Phase 03: Dashboard
-![Explanation_of_dashboardf](NYP_for presentation-Excel Dashboard 15.jpg)
+
+![Explanation_of_dashboard](IMG_dashboard_present.jpg)
 
 ---
 
