@@ -58,7 +58,9 @@ Both CSV files were dumped as SQL files using SQLite3.
 
 Process of normalisation and alteration are done using sql.
 
-![ERD_dataset](IMG_dataset_erd.jpg)
+![ERD_dataset](IMG_SQL_01.jpg)
+![ERD_dataset](IMG_SQL_02.jpg)
+![ERD_dataset](IMG_SQL_03.jpg)
 
 #### Phase 03: Dashboard
 The layout of the dashboard shows how the five possible questions are answered.
