@@ -6,6 +6,8 @@
 ---
 ---
 #### Dashboard
+Link to [Presentation] (https://github.com/muhdkhairiboyani/capstone_nyp_intake_planned-vs-actual/blob/main/NYP_for%20presentation.pdf)
+Link to [Dashboard](https://github.com/muhdkhairiboyani/capstone_nyp_intake_planned-vs-actual/blob/main/NYP_intake_dashboard.xlsx)
 ![Dashboard](NYP_intake_dashboard.png)
 
 #### Dataset source:
@@ -18,7 +20,7 @@ Licence: Singapore Open Data Licence \
 Format: CSV \
 Column: 7 \
 Rows: 909 \
-Link: https://data.gov.sg/dataset/nanyang-polytechnic-student-intake-annual
+Link: [nanyang-polytechnic-student-intake-annual](https://data.gov.sg/dataset/nanyang-polytechnic-student-intake-annual)
 
 **Source 02** \
 Title: Nanyang Polytechnic Planned Intake, Annual \
@@ -29,7 +31,7 @@ Licence: Singapore Open Data Licence \
 Format: CSV \
 Column: 6 \
 Rows: 313 \
-Link: https://data.gov.sg/dataset/nanyang-polytechnic-planned-intake-annual
+Link: [nanyang-polytechnic-planned-intake-annual](https://data.gov.sg/dataset/nanyang-polytechnic-planned-intake-annual)
 
 #### Description of Capstone
 According to the MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT, the definition of Intake is that Intake refers to the new students entering the polytechnics in a particular year.
@@ -65,14 +67,14 @@ Process of normalisation and alteration are done using sql syntax as shown below
 ---
 
 #### Contact me
-- LinkedIn: www.linkedin.com/in/muhammd-khairi-boyani-10694061
-- Instagram: https://www.instagram.com/mikistudio21/
+- LinkedIn: [Muhammad Khairi](www.linkedin.com/in/muhammd-khairi-boyani-10694061)
+- Instagram: [mikistudio21](https://www.instagram.com/mikistudio21/)
 
 ---
 #### Platforms:
 - Dashboards: Microsoft Excel
 - SQL: PostgreSQL
-- Markdown: dillinger.io
+- Markdown: [dillinger](https://dillinger.io)
 
 ---
 #### Illustration:
